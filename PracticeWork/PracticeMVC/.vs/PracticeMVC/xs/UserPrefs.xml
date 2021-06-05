@@ -2,7 +2,7 @@
   <MonoDevelop.Ide.Workbench ActiveDocument="PracticeMVC/Models/Categoty.cs">
     <Files>
       <File FileName="PracticeMVC/Program.cs" Line="1" Column="1" />
-      <File FileName="PracticeMVC/Startup.cs" Line="37" Column="1" />
+      <File FileName="PracticeMVC/Startup.cs" />
       <File FileName="PracticeMVC/Models/Categoty.cs" Line="1" Column="1" />
     </Files>
     <Pads>

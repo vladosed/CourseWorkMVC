@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/vladiko/Projects/PracticeWork/PracticeMVC/PracticeMVC/PracticeMVC.csproj": {}
+    "/Users/vladiko/Projects/CourseWorkMVC/PracticeWork/PracticeMVC/PracticeMVC/PracticeMVC.csproj": {}
   },
   "projects": {
-    "/Users/vladiko/Projects/PracticeWork/PracticeMVC/PracticeMVC/PracticeMVC.csproj": {
+    "/Users/vladiko/Projects/CourseWorkMVC/PracticeWork/PracticeMVC/PracticeMVC/PracticeMVC.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/vladiko/Projects/PracticeWork/PracticeMVC/PracticeMVC/PracticeMVC.csproj",
+        "projectUniqueName": "/Users/vladiko/Projects/CourseWorkMVC/PracticeWork/PracticeMVC/PracticeMVC/PracticeMVC.csproj",
         "projectName": "PracticeMVC",
-        "projectPath": "/Users/vladiko/Projects/PracticeWork/PracticeMVC/PracticeMVC/PracticeMVC.csproj",
+        "projectPath": "/Users/vladiko/Projects/CourseWorkMVC/PracticeWork/PracticeMVC/PracticeMVC/PracticeMVC.csproj",
         "packagesPath": "/Users/vladiko/.nuget/packages/",
-        "outputPath": "/Users/vladiko/Projects/PracticeWork/PracticeMVC/PracticeMVC/obj/",
+        "outputPath": "/Users/vladiko/Projects/CourseWorkMVC/PracticeWork/PracticeMVC/PracticeMVC/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/vladiko/.config/NuGet/NuGet.Config"

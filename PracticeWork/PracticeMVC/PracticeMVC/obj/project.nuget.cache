@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "p/nr8gb31DiiiqAbGxa2KS9+wEFCmGA4X0btDDOExsaGf6MmV7muE0Rz/cMzjQEjcz3PeSzUap6Cl0GxRohdFg==",
+  "dgSpecHash": "vv7BIVO4HqqfsY8deCvWVHSaZhtwXU/7GAgOQyGg6HQkPkealcmtozIkUcDKgQwDb1weRUg4+oZzFdyNZZdXVA==",
   "success": true,
-  "projectFilePath": "/Users/vladiko/Projects/PracticeWork/PracticeMVC/PracticeMVC/PracticeMVC.csproj",
+  "projectFilePath": "/Users/vladiko/Projects/CourseWorkMVC/PracticeWork/PracticeMVC/PracticeMVC/PracticeMVC.csproj",
   "expectedPackageFiles": [
     "/Users/vladiko/.nuget/packages/microsoft.aspnet.mvc/5.2.7/microsoft.aspnet.mvc.5.2.7.nupkg.sha512",
     "/Users/vladiko/.nuget/packages/microsoft.aspnet.razor/3.2.7/microsoft.aspnet.razor.3.2.7.nupkg.sha512",
