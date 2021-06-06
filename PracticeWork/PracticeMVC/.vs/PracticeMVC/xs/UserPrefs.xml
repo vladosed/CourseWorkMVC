@@ -1,17 +1,24 @@
 ﻿<Properties StartupConfiguration="{8F721592-9C6D-41C7-92C4-6382F8750CAF}|Default">
-  <MonoDevelop.Ide.Workbench ActiveDocument="PracticeMVC/Models/Categoty.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="PracticeMVC/Data/Mocks/MockCars.cs">
     <Files>
-      <File FileName="PracticeMVC/Program.cs" Line="1" Column="1" />
-      <File FileName="PracticeMVC/Startup.cs" />
-      <File FileName="PracticeMVC/Models/Categoty.cs" Line="1" Column="1" />
+      <File FileName="PracticeMVC/Models/Categoty.cs" Line="12" Column="34" />
+      <File FileName="PracticeMVC/Models/Ticket.cs" Line="16" Column="17" />
+      <File FileName="PracticeMVC/Data/Interfaces/ITrainsCategory.cs" Line="3" Column="34" />
+      <File FileName="PracticeMVC/Data/Interfaces/IAllTickets.cs" Line="11" Column="40" />
+      <File FileName="PracticeMVC/Data/Mocks/MockCategory.cs" Line="22" Column="10" />
+      <File FileName="PracticeMVC/Data/Mocks/MockCars.cs" Line="1" Column="1" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
           <Node name="PracticeMVC" expanded="True">
             <Node name="PracticeMVC" expanded="True">
-              <Node name="Models" expanded="True">
-                <Node name="Categoty.cs" selected="True" />
+              <Node name="Data" expanded="True">
+                <Node name="Interfaces" expanded="True" />
+                <Node name="Mocks" expanded="True">
+                  <Node name="MockCars.cs" selected="True" />
+                </Node>
+                <Node name="Models" expanded="True" />
               </Node>
             </Node>
           </Node>
