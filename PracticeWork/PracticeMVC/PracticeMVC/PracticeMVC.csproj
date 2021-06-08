@@ -12,5 +12,6 @@
     <Folder Include="Data\Models\" />
     <Folder Include="Data\Interfaces\" />
     <Folder Include="Data\Mocks\" />
+    <Folder Include="Views\Trains\" />
   </ItemGroup>
 </Project>

@@ -1,24 +1,34 @@
 ﻿<Properties StartupConfiguration="{8F721592-9C6D-41C7-92C4-6382F8750CAF}|Default">
-  <MonoDevelop.Ide.Workbench ActiveDocument="PracticeMVC/Data/Mocks/MockCars.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="PracticeMVC/Data/Mocks/MockCategory.cs">
     <Files>
-      <File FileName="PracticeMVC/Models/Categoty.cs" Line="12" Column="34" />
-      <File FileName="PracticeMVC/Models/Ticket.cs" Line="16" Column="17" />
-      <File FileName="PracticeMVC/Data/Interfaces/ITrainsCategory.cs" Line="3" Column="34" />
-      <File FileName="PracticeMVC/Data/Interfaces/IAllTickets.cs" Line="11" Column="40" />
-      <File FileName="PracticeMVC/Data/Mocks/MockCategory.cs" Line="22" Column="10" />
-      <File FileName="PracticeMVC/Data/Mocks/MockCars.cs" Line="1" Column="1" />
+      <File FileName="PracticeMVC/Data/Mocks/MockCars.cs" Line="28" Column="21" />
+      <File FileName="PracticeMVC/Program.cs" Line="16" Column="1" />
+      <File FileName="PracticeMVC/Controllers/TrainsController.cs" Line="22" Column="10" />
+      <File FileName="PracticeMVC/Controllers/HomeController.cs" Line="1" Column="1" />
+      <File FileName="PracticeMVC/Views/Trains/_Layout.cshtml" Line="5" Column="5" />
+      <File FileName="PracticeMVC/Data/Models/Train.cs" Line="1" Column="1" />
+      <File FileName="PracticeMVC/Data/Mocks/MockCategory.cs" Line="1" Column="1" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
           <Node name="PracticeMVC" expanded="True">
             <Node name="PracticeMVC" expanded="True">
+              <Node name="Dependencies" expanded="True" />
+              <Node name="Controllers" expanded="True" />
               <Node name="Data" expanded="True">
                 <Node name="Interfaces" expanded="True" />
                 <Node name="Mocks" expanded="True">
-                  <Node name="MockCars.cs" selected="True" />
+                  <Node name="MockCategory.cs" selected="True" />
                 </Node>
                 <Node name="Models" expanded="True" />
+              </Node>
+              <Node name="Views" expanded="True">
+                <Node name="Trains" expanded="True" />
+              </Node>
+              <Node name="wwwroot" expanded="True">
+                <Node name="js" expanded="True" />
+                <Node name="lib" expanded="True" />
               </Node>
             </Node>
           </Node>

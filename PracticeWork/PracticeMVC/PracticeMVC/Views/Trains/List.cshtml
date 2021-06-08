@@ -1,0 +1,28 @@
+﻿@using PracticeMVC.Models
+@using PracticeMVC.Data.Mocks
+@model IEnumerable<Train>
+
+@{
+    Layout = null;
+}
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>List</title> 
+</head>
+<body>
+   <h2>All Trains</h2>
+    @{
+        foreach(var car in Model)
+        {
+            <div>
+                <h2>Model: @car.name</h2>
+                <p>Price: @car.price.ToString("c")</p>
+            </div>
+        }
+    }
+</body>
+</html>

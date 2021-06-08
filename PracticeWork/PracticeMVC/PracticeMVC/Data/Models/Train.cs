@@ -17,7 +17,7 @@ namespace PracticeMVC.Models
 
         public bool isFavorite { get; set; }
 
-        public int avaliavle { get; set; }
+        public bool avaliavle { get; set; }
 
         public int categoryID { get; set; }
 

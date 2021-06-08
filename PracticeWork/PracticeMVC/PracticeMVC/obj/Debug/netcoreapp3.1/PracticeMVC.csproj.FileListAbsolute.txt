@@ -77,3 +77,4 @@
 /Users/vladiko/Projects/CourseWorkMVC/PracticeWork/PracticeMVC/PracticeMVC/obj/Debug/netcoreapp3.1/PracticeMVC.Views.pdb
 /Users/vladiko/Projects/CourseWorkMVC/PracticeWork/PracticeMVC/PracticeMVC/obj/Debug/netcoreapp3.1/PracticeMVC.csproj.CopyComplete
 /Users/vladiko/Projects/CourseWorkMVC/PracticeWork/PracticeMVC/PracticeMVC/obj/Debug/netcoreapp3.1/PracticeMVC.genruntimeconfig.cache
+/Users/vladiko/Projects/CourseWorkMVC/PracticeWork/PracticeMVC/PracticeMVC/obj/Debug/netcoreapp3.1/Razor/Views/Trains/List.cshtml.g.cs
